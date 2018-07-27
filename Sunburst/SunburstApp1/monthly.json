@@ -1,0 +1,3217 @@
+{
+  "name":"Monthly",
+  "children":[
+    {
+        "name": "Week1",
+        "children": [
+          {
+            "name": "Sunday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Monday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Tuesday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Wednesday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Thursday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Friday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Saturday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+    },
+    {
+        "name": "Week2",
+        "children": [
+          {
+            "name": "Sunday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Monday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Tuesday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Wednesday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Thursday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Friday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Saturday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+    },
+    {
+        "name": "Week3",
+        "children": [
+          {
+            "name": "Sunday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Monday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Tuesday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Wednesday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Thursday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Friday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Saturday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+    },
+    {
+        "name": "Week4",
+        "children": [
+          {
+            "name": "Sunday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Monday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Tuesday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Wednesday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Thursday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Friday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Saturday",
+            "children": [
+              {
+                "name": "within 24 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 48 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "within 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "more than 72 Hrs",
+                "children": [
+                  {
+                    "name": "AgglomerativeCluster",
+                    "size": 3938
+                  },
+                  {
+                    "name": "CommunityStructure",
+                    "size": 3812
+                  },
+                  {
+                    "name": "HierarchicalCluster",
+                    "size": 6714
+                  },
+                  {
+                    "name": "MergeEdge",
+                    "size": 743
+                  }
+                ]
+              },
+              {
+                "name": "not dispatched yet",
+                "children": [
+                  {
+                    "name": "BetweennessCentrality",
+                    "size": 3534
+                  },
+                  {
+                    "name": "LinkDistance",
+                    "size": 5731
+                  },
+                  {
+                    "name": "MaxFlowMinCut",
+                    "size": 7840
+                  },
+                  {
+                    "name": "ShortestPaths",
+                    "size": 5914
+                  },
+                  {
+                    "name": "SpanningTree",
+                    "size": 3416
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+    }
+  ]
+}

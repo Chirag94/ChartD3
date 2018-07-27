@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <title>SunBursts charts</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="firstscript.js"></script>
+		<style>
+		body {
+		  overflow: hidden;
+		  margin: 0;
+		  font-size: 14px;
+		  font-family: "Helvetica Neue", Helvetica;
+		}
+
+		#chart {
+		  position: absolute;
+		  top: 50px;
+		  left: 100px;
+		}	
+	</style>
+  </head>
+  <body>
+    <div id="body">
+	  <div id="chart"></div>
+    </div>
+    
+    
+<select id="d3-dropdown">
+    <option value="Select">Select</option>
+   
+    <option value="Weekly">Weekly</option>
+    <option value="Monthly">Monthly</option>
+    <option value="Quarterly">Quarterly</option>
+    <option value="Yearly">Yearly</option>
+  </select>
+  
+  <p id="selected-dropdown"></p>
+        
+  <script type="text/javascript" src="secondscript.js">
+ // FirstScript.draw();
+  </script>
+
+  </body>
+</html>
